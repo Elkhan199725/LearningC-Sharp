@@ -6,20 +6,23 @@ namespace BreakContinue
     {
         static void Main(string[] args)
         {
-            int[] values = {15, 7, 12, 23, 41, 28, 9, 17, 36};
+            int[] values = {15, 7, 12, 23, 35, 41, 28, 9, 17, 36};
 
             Console.WriteLine("Using break and continue :");
             foreach (int val in values)
             {
                 // TODO: The continue statement skips the rest of the loop entirely
                 // and jumps to the next iteration (if there is one)
-
-
-                // print the value
-                Console.WriteLine($"val is currently {val}");
-
+                if(val >= 20 && val <= 30)
+                {
+                    continue;
+                }
                 // TODO: The break statement stops the loop and exits
-
+                if(val > 40)
+                {
+                    break;
+                }           
+                Console.WriteLine($"val is currently {val}");
             }
         }
     }
