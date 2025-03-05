@@ -28,6 +28,18 @@ namespace Modifiers
         }
 
         // TODO: Member variables can be accessed via methods
+        public string GetName() {
+            return _name;
+        }
+        public void SetName(string name) {
+            _name = name;
+        }
+        public void SetAuthor(string author) {
+            _author = author;
+        }
+        public void SetPageCount(int pages) {
+            _pagecount = pages;
+        }
 
     }
 }

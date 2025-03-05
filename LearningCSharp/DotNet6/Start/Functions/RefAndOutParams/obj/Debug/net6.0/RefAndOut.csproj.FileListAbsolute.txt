@@ -1,0 +1,15 @@
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet6\Start\Functions\RefAndOutParams\bin\Debug\net6.0\RefAndOut.exe
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet6\Start\Functions\RefAndOutParams\bin\Debug\net6.0\RefAndOut.deps.json
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet6\Start\Functions\RefAndOutParams\bin\Debug\net6.0\RefAndOut.runtimeconfig.json
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet6\Start\Functions\RefAndOutParams\bin\Debug\net6.0\RefAndOut.dll
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet6\Start\Functions\RefAndOutParams\bin\Debug\net6.0\RefAndOut.pdb
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet6\Start\Functions\RefAndOutParams\obj\Debug\net6.0\RefAndOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet6\Start\Functions\RefAndOutParams\obj\Debug\net6.0\RefAndOut.AssemblyInfoInputs.cache
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet6\Start\Functions\RefAndOutParams\obj\Debug\net6.0\RefAndOut.AssemblyInfo.cs
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet6\Start\Functions\RefAndOutParams\obj\Debug\net6.0\RefAndOut.csproj.CoreCompileInputs.cache
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet6\Start\Functions\RefAndOutParams\obj\Debug\net6.0\RefAndOut.sourcelink.json
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet6\Start\Functions\RefAndOutParams\obj\Debug\net6.0\RefAndOut.dll
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet6\Start\Functions\RefAndOutParams\obj\Debug\net6.0\refint\RefAndOut.dll
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet6\Start\Functions\RefAndOutParams\obj\Debug\net6.0\RefAndOut.pdb
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet6\Start\Functions\RefAndOutParams\obj\Debug\net6.0\RefAndOut.genruntimeconfig.cache
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet6\Start\Functions\RefAndOutParams\obj\Debug\net6.0\ref\RefAndOut.dll

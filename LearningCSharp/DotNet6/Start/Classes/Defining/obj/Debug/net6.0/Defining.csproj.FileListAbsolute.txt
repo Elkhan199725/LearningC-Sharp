@@ -1,0 +1,15 @@
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet6\Start\Classes\Defining\bin\Debug\net6.0\Defining.exe
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet6\Start\Classes\Defining\bin\Debug\net6.0\Defining.deps.json
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet6\Start\Classes\Defining\bin\Debug\net6.0\Defining.runtimeconfig.json
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet6\Start\Classes\Defining\bin\Debug\net6.0\Defining.dll
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet6\Start\Classes\Defining\bin\Debug\net6.0\Defining.pdb
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet6\Start\Classes\Defining\obj\Debug\net6.0\Defining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet6\Start\Classes\Defining\obj\Debug\net6.0\Defining.AssemblyInfoInputs.cache
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet6\Start\Classes\Defining\obj\Debug\net6.0\Defining.AssemblyInfo.cs
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet6\Start\Classes\Defining\obj\Debug\net6.0\Defining.csproj.CoreCompileInputs.cache
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet6\Start\Classes\Defining\obj\Debug\net6.0\Defining.sourcelink.json
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet6\Start\Classes\Defining\obj\Debug\net6.0\Defining.dll
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet6\Start\Classes\Defining\obj\Debug\net6.0\refint\Defining.dll
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet6\Start\Classes\Defining\obj\Debug\net6.0\Defining.pdb
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet6\Start\Classes\Defining\obj\Debug\net6.0\Defining.genruntimeconfig.cache
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet6\Start\Classes\Defining\obj\Debug\net6.0\ref\Defining.dll

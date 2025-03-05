@@ -1,0 +1,15 @@
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet6\Start\Functions\Basics\obj\Debug\net6.0\Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet6\Start\Functions\Basics\obj\Debug\net6.0\Basics.AssemblyInfoInputs.cache
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet6\Start\Functions\Basics\obj\Debug\net6.0\Basics.AssemblyInfo.cs
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet6\Start\Functions\Basics\obj\Debug\net6.0\Basics.csproj.CoreCompileInputs.cache
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet6\Start\Functions\Basics\obj\Debug\net6.0\Basics.sourcelink.json
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet6\Start\Functions\Basics\bin\Debug\net6.0\Basics.exe
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet6\Start\Functions\Basics\bin\Debug\net6.0\Basics.deps.json
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet6\Start\Functions\Basics\bin\Debug\net6.0\Basics.runtimeconfig.json
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet6\Start\Functions\Basics\bin\Debug\net6.0\Basics.dll
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet6\Start\Functions\Basics\bin\Debug\net6.0\Basics.pdb
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet6\Start\Functions\Basics\obj\Debug\net6.0\Basics.dll
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet6\Start\Functions\Basics\obj\Debug\net6.0\refint\Basics.dll
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet6\Start\Functions\Basics\obj\Debug\net6.0\Basics.pdb
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet6\Start\Functions\Basics\obj\Debug\net6.0\Basics.genruntimeconfig.cache
+C:\Users\Elkhan Mammadli\Desktop\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet6\Start\Functions\Basics\obj\Debug\net6.0\ref\Basics.dll

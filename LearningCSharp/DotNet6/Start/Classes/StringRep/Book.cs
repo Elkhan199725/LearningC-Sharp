@@ -13,10 +13,20 @@ namespace StringRep {
         }
 
         // TODO: The ToString method generates a string represenation of the object
+        public override string ToString() {
+            return $"{Name} by {Author}, {PageCount} pages";
+        }
 
 
         // TODO: ToString can be overloaded to give different format versions
         // Notice that this version is NOT an override function
+        public string ToString(string format) {
+            if (format == "A") {
+                return $"{Author} wrote {Name}";
+            } else {
+                return ToString();
+            }
+        }
 
     }
 }
